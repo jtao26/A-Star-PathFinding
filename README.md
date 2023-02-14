@@ -1,3 +1,3 @@
 # A-Star-PathFinding
 
-A simple visual a star pathfinding project using Unity. 
+A simple visual A-star pathfinding project using Unity. 
